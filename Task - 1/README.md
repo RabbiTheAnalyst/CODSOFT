@@ -45,6 +45,6 @@ The EDA phase provided key insights through visualizations:
 *AUC of 0.88 reflects strong predictive capability.*
 
 ## 📁 Files
-- `https://github.com/RabbiTheAnalyst/CODSOFT/blob/main/Task%20-%201/%20Titanic_Survival_Prediction.ipynb`: Jupyter notebook with full code
+- ``: Jupyter notebook with full code
 - `Titanic-Dataset.csv`: Dataset used for analysis
 
