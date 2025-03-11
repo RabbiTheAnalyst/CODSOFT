@@ -51,8 +51,3 @@ The EDA phase provided key insights through visualizations:
 - `Titanic_Prediction.ipynb`: Jupyter notebook with full code
 - `Titanic-Dataset.csv`: Dataset used for analysis
 
-## 🚀 How to Run
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/RabbiTheAnalyst/CODSOFT.git
-   cd CODSOFT/task 1
