@@ -44,7 +44,7 @@ The EDA phase provided key insights through visualizations:
 - **ROC Curve**: Visualized to demonstrate model robustness
 
 ### 📈 Key Visualization
-![ROC Curve](assets/Roc-Curve.png)  
+![ROC Curve]("H:\CodSoft\Task -  01\ROC-Curve.png")  
 *AUC of 0.88 reflects strong predictive capability.*
 
 ## 📁 Files
