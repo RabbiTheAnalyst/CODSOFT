@@ -42,10 +42,9 @@ The EDA phase provided key insights through visualizations:
   - **ROC-AUC**: 0.88
   - Detailed classification report (precision, recall, F1-score)
 - **ROC Curve**: Visualized to demonstrate model robustness
-- 
 *AUC of 0.88 reflects strong predictive capability.*
 
 ## 📁 Files
-- `Titanic_Prediction.ipynb`: Jupyter notebook with full code
+- `https://github.com/RabbiTheAnalyst/CODSOFT/blob/main/Task%20-%201/%20Titanic_Survival_Prediction.ipynb`: Jupyter notebook with full code
 - `Titanic-Dataset.csv`: Dataset used for analysis
 
