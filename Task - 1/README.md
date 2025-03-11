@@ -1,4 +1,10 @@
 # 🚢 Titanic Survival Prediction (Task 1)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ## 📌 Project Overview
 This project, completed as Task 1 of the CodSoft Data Science Internship (Feb 2025), predicts passenger survival on the Titanic using machine learning. The workflow includes data preprocessing, exploratory data analysis (EDA), and modeling with Logistic Regression, achieving an AUC score of 0.88.
 
