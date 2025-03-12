@@ -37,12 +37,8 @@ The EDA phase provided key insights through visualizations:
   - **ROC Curve**: Plotted for model assessment
 
 ## 📁 Files
-- [Jupyter Notebook with Full Code](https://github.com/RabbiTheAnalyst/YOUR_REPO_HERE)
-- [Credit Card Fraud Dataset](https://github.com/RabbiTheAnalyst/YOUR_REPO_HERE/creditcard.csv)
+- [Jupyter Notebook with Full Code](https://github.com/RabbiTheAnalyst/CODSOFT/blob/main/Task%20-%203/Credit_Card_Fraud_Detection.ipynb)
+- [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-## 🚀 Future Enhancements
-- Implementing Deep Learning models (e.g., LSTM, Autoencoders)
-- Trying anomaly detection techniques
-- Improving feature engineering for better fraud identification
 
 
