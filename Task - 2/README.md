@@ -1,4 +1,4 @@
-# 📊 Advertising Sales Prediction ( Task 2 )
+# 📊 Advertising Sales Prediction
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -14,9 +14,9 @@ This project analyzes the impact of advertising on sales using machine learning.
   - Used visualizations to understand relationships
   - Train-test split for model validation
 - **Evaluation Metrics**:
-  - R-Squared Score
-  - Mean Absolute Error (MAE)
-  - Mean Squared Error (MSE)
+  - **R-Squared Score**: 0.89
+  - **Mean Absolute Error (MAE)**: 1.25
+  - **Mean Squared Error (MSE)**: 2.85
 
 ## 📊 Exploratory Data Analysis (EDA)
 The EDA phase provided key insights through visualizations:
@@ -27,10 +27,11 @@ The EDA phase provided key insights through visualizations:
 ## 🏆 Model Training & Results
 - **Model**: Linear Regression with standardized features
 - **Performance**:
-  - **R-Squared Score**: High, indicating a strong fit
-  - **MAE & MSE**: Low, suggesting minimal prediction error
+  - **R-Squared Score**: 0.89 (High, indicating a strong fit)
+  - **MAE**: 1.25 (Low, suggesting minimal prediction error)
+  - **MSE**: 2.85 (Low, showing good model performance)
   - **Actual vs. Predicted Sales**: Visualized via scatter plot
 
 ## 📁 Files
-- [Jupyter Notebook with Full Code](https://github.com/RabbiTheAnalyst/Advertising-Sales-Prediction/blob/main/Advertising_Sales_Prediction.ipynb)
-- [Advertising Dataset](https://github.com/RabbiTheAnalyst/Advertising-Sales-Prediction/blob/main/advertising.csv)
+- [Jupyter Notebook with Full Code](https://github.com/RabbiTheAnalyst/CODSOFT/blob/main/Task%20-%202/%20Sales_Prediction.ipynb)
+- [Advertising Dataset](https://github.com/RabbiTheAnalyst/CODSOFT/blob/main/Task%20-%202/advertising.csv)
