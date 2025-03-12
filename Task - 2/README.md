@@ -1,46 +1,36 @@
-📊 Advertising Sales Prediction
+# 📊 Advertising Sales Prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+## 📌 Project Overview
+This project analyzes the impact of advertising on sales using machine learning. The workflow includes data preprocessing, exploratory data analysis (EDA), and modeling with Linear Regression to predict sales.
 
+- **Algorithm**: Linear Regression
+- **Preprocessing**:
+  - Checked for missing values and outliers
+  - Used visualizations to understand relationships
+  - Train-test split for model validation
+- **Evaluation Metrics**:
+  - R-Squared Score
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
 
+## 📊 Exploratory Data Analysis (EDA)
+The EDA phase provided key insights through visualizations:
+- **Outliers Detection**: Boxplots for TV, Radio, and Newspaper advertising
+- **Feature Relationships**: Pair plots and scatter plots for Sales vs. Advertising channels
+- **Correlation Matrix**: Heatmap to understand interrelationships
 
+## 🏆 Model Training & Results
+- **Model**: Linear Regression with standardized features
+- **Performance**:
+  - **R-Squared Score**: High, indicating a strong fit
+  - **MAE & MSE**: Low, suggesting minimal prediction error
+  - **Actual vs. Predicted Sales**: Visualized via scatter plot
 
-
-
-
-📌 Project Overview
-This project explores the relationship between advertising budgets (TV, Radio, Newspaper) and sales using the advertising.csv dataset. The goal is to predict sales based on advertising spend through data analysis and visualization. While the current notebook focuses on Exploratory Data Analysis (EDA), it lays the groundwork for a regression-based predictive model.
-
-Objective: Predict sales using advertising expenditure
-Dataset: advertising.csv (200 rows, 4 columns: TV, Radio, Newspaper, Sales)
-Tools & Libraries:
-Data manipulation with Pandas
-Visualization with Matplotlib and Seaborn
-Preprocessing:
-Checked for missing values (none found)
-Summary statistics for initial insights
-📈 Exploratory Data Analysis (EDA)
-The EDA phase provides a foundation for understanding the dataset:
-
-Data Snapshot: Previewed the first 5 rows (df.head())
-Structure: 200 entries, 4 columns (TV, Radio, Newspaper, Sales)
-Missing Values: No null values (df.isnull().sum())
-Summary Statistics: Descriptive stats (df.describe()) including mean, min, max, and quartiles
-Visualization: Scatter plot setup for actual vs. predicted sales (incomplete due to missing y_test and predicted_y)
-Future EDA Suggestions:
-
-Correlation heatmap of features
-Distribution plots (e.g., histograms, KDE) for TV, Radio, Newspaper, and Sales
-🏆 Model Training & Results
-Note: The notebook is incomplete and lacks model training.
-
-Intended Model: Linear Regression (assumed based on scatter plot intent)
-Visualization: Scatter plot of actual vs. predicted sales (requires model training)
-Next Steps:
-Split data into training and test sets
-Train a Linear Regression model
-Evaluate with metrics like R², Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE)
-Once completed, performance metrics and a finalized plot will be added.
-
-📁 Files
-Jupyter Notebook with Full Code
-Advertising Dataset
+## 📁 Files
+- [Jupyter Notebook with Full Code](https://github.com/RabbiTheAnalyst/Advertising-Sales-Prediction/blob/main/Advertising_Sales_Prediction.ipynb)
+- [Advertising Dataset](https://github.com/RabbiTheAnalyst/Advertising-Sales-Prediction/blob/main/advertising.csv)
